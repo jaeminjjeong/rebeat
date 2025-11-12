@@ -1,0 +1,81 @@
+import { KpopAlbum } from '../types';
+
+export const kpopAlbumsData: KpopAlbum[] = [
+  {
+    id: 1,
+    artist: 'KANG SEUNG YOON',
+    title: '2nd FULL ALBUM [PAGE]',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251106/3edf7e558d4bba3c0253b0c756d8ad18.jpg',
+    price: 19.99,
+  },
+  {
+    id: 2,
+    artist: 'JUNG SEUNG HWAN',
+    title: 'Called Love (Platform Album Ver.)',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251017/068609b4467e1834a8d0dd8b17fcd8fc.jpg',
+    price: 12.50,
+  },
+  {
+    id: 3,
+    artist: 'JISOO',
+    title: 'GQ KOREA November 2023',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251016/7ab5022a39290e374968bcba54b37167.jpg',
+    price: 15.00,
+  },
+  {
+    id: 4,
+    artist: 'MARK (NCT)',
+    title: 'The First Fruit (Air Freshener)',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20250926/532fc7c0518d4b9b4335f72334e48cf9.jpg',
+    price: 16.00,
+  },
+  {
+    id: 5,
+    artist: 'IDID',
+    title: 'The 1st EP [I DID IT.]',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20250928/e77476199ed49299d1797493c84a45fe.jpg',
+    price: 18.99,
+  },
+  {
+    id: 6,
+    artist: 'JUNG SEUNG HWAN',
+    title: 'Called Love (Photo Book)',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251017/f8a68313eb0411c39068a88bc9c2cafd.jpg',
+    price: 20.50,
+  },
+  {
+    id: 7,
+    artist: 'BYEON WOO SEOK',
+    title: 'GQ KOREA July 2024',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251101/b6a02dd4ed931b49485d052e61e74818.jpg',
+    price: 15.00,
+  },
+  {
+    id: 8,
+    artist: 'LIBELANTE',
+    title: '1st Single Album [Brillante]',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251021/449eda122324b0b98d8803d0b06407b1.jpg',
+    price: 14.99,
+  },
+  {
+    id: 9,
+    artist: 'YOUNGHOON',
+    title: 'My Breezy Days (Photo Essay)',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20251107/10fab7e45f89dbe68e807abc9dc17916.jpg',
+    price: 27.00,
+  },
+  {
+    id: 10,
+    artist: 'MINNIE ((G)I-DLE)',
+    title: "Harper's BAZAAR KOREA November 2023",
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20250408/f058d0389af269d58d491df53d64c581.jpg',
+    price: 15.00,
+  },
+  {
+    id: 11,
+    artist: 'LEE KNOW (Stray Kids)',
+    title: 'Esquire HONG KONG September 2023',
+    imageUrl: 'https://ecimg.cafe24img.com/pg984b62463139010/kpopalbums/web/product/medium/20241031/0e9f68573cd89e385d0566e5b5ac8e08.png',
+    price: 18.00,
+  },
+];
